@@ -168,23 +168,6 @@ Le rapport détaille les performances sur :
 - **Medium** : Culture générale standard  
 - **Hard** : Connaissances spécialisées
 
-## 🤝 Contribution
-
-1. Fork le projet
-2. Créez une branche (`git checkout -b feature/amélioration`)
-3. Commit (`git commit -am 'Ajoute une fonctionnalité'`)
-4. Push (`git push origin feature/amélioration`)
-5. Ouvrez une Pull Request
-
-## 📝 Améliorations possibles
-
-- [ ] Support d'autres APIs (Anthropic, OpenAI)
-- [ ] Interface web
-- [ ] Graphiques de performance
-- [ ] Tests par catégorie
-- [ ] Sauvegarde en base de données
-- [ ] Mode tournoi entre modèles
-
 ## 🙏 Remerciements
 
 - [Open Trivia Database](https://opentdb.com/) pour les questions
