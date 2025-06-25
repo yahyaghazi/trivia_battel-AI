@@ -1,0 +1,32 @@
+STATISTIQUES POUR trivia_complete_4619q_20250625_113945.csv
+==================================================
+Total questions: 4619
+Taille fichier: 0.89 MB
+Téléchargé le: 2025-06-25 11:39:45.186682
+Seuil MAX_DANGER: 4520
+
+RÉPARTITION PAR CATÉGORIE:
+  Animals: 84 questions
+  Art: 41 questions
+  Celebrities: 54 questions
+  Entertainment: Board Games: 74 questions
+  Entertainment: Books: 111 questions
+  Entertainment: Cartoon &amp; Animations: 101 questions
+  Entertainment: Comics: 74 questions
+  Entertainment: Film: 277 questions
+  Entertainment: Japanese Anime &amp; Manga: 193 questions
+  Entertainment: Music: 410 questions
+  Entertainment: Musicals &amp; Theatres: 35 questions
+  Entertainment: Television: 188 questions
+  Entertainment: Video Games: 1096 questions
+  General Knowledge: 364 questions
+  Geography: 287 questions
+  History: 345 questions
+  Mythology: 66 questions
+  Politics: 66 questions
+  Science &amp; Nature: 260 questions
+  Science: Computers: 173 questions
+  Science: Gadgets: 32 questions
+  Science: Mathematics: 61 questions
+  Sports: 150 questions
+  Vehicles: 77 questions
