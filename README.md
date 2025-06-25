@@ -185,23 +185,12 @@ Le rapport détaille les performances sur :
 - [ ] Sauvegarde en base de données
 - [ ] Mode tournoi entre modèles
 
-## 📜 Licence
-
-MIT License - Voir le fichier LICENSE pour les détails.
-
 ## 🙏 Remerciements
 
 - [Open Trivia Database](https://opentdb.com/) pour les questions
 - [Ollama](https://ollama.ai/) pour les modèles locaux
 - Communauté IA open source
 
-## 📞 Support
-
-- **Issues** : Problèmes ou suggestions sur GitHub
-- **Discussions** : Questions générales dans les Discussions
-- **Wiki** : Documentation détaillée (à venir)
-
----
 
 🎯 **Objectif** : Trouver le meilleur modèle local pour vos besoins de trivia et culture générale !
 
